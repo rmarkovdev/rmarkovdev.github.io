@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FQJX5X4E7C.com.box.demo",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
